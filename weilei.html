@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<form action="">
+			用户名：<input type="text" name="username"/>
+			密  码：<input type="password" name="pass" />
+			<button>提交</button>
+		</form>
+		<form action="">
+			<div id="title1">
+				<div>AAAA</div>
+				中国<input type="checkbox" />
+				美国<input type="checkbox" />
+				德国<input type="checkbox" />
+			</div>
+			<div id="title2">
+				<div>BBB</div>
+				科比<input type="checkbox" />
+				韦德<input type="checkbox" />
+			</div>
+		</form>
+	</body>
+	<script src="js/jquery-2.1.0.js"></script>
+	<script>
+		alert($("#title1 checked").length) ;
+	</script>
+</html>
