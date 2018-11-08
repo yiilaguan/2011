@@ -1,23 +1,14 @@
-# 2011
-`|-- build                            // webpack配置文件
-
-|-- config                           // 项目打包路径
-
-|-- src                              // 源码目录
-
-|   |-- components                   // 组件文件夹
-
-|       |-- common                   // 公共组件
-
-|           |-- bus.js           	 // Event Bus
-
-|           |-- Header.vue           // 公共头部
-
-|           |-- Home.vue           	 // 公共路由入口
-
-|           |-- Sidebar.vue          // 公共左边栏
-|           |-- Tags.vue           	 // 页面切换标签组件
-|       |-- page                   	 // 主要路由页面
+`|-- build                            // webpack配置文件`
+`|-- config                           // 项目打包路径`
+`|-- src                              // 源码目录`
+`|   |-- components                   // 组件文件夹`
+`|       |-- common                   // 公共组件`
+`|           |-- bus.js           	  // Event Bus`
+`|           |-- Header.vue           // 公共头部`
+`|           |-- Home.vue           	// 公共路由入口`
+`|           |-- Sidebar.vue          // 公共左边栏`
+`|           |-- Tags.vue           	// 页面切换标签组件`
+`|       |-- page                   	// 主要路由页面`
 |           |-- 403.vue
 |           |-- 404.vue
 |           |-- BaseCharts.vue       // 基础图表
@@ -38,4 +29,5 @@
 |-- .gitignore                       // 忽略的文件
 |-- index.html                       // 入口html文件
 |-- package.json                     // 项目及工具的依赖配置文件
-|-- README.md                        // 说明 `
+|-- README.md                        // 说明
+
