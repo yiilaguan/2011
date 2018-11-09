@@ -1,7 +1,7 @@
 `|-- build                            // webpack配置文件`    
 `|-- config                           // 项目打包路径`    
 `|-- src                              // 源码目录`   
-`|&nbsp;|-- components                   // 组件文件夹`   
+|&nbsp;|-- components                   // 组件文件夹 
 `|&nbsp;&nbsp;|-- common                   // 公共组件`   
 `|&nbsp;&nbsp;&nbsp;|-- bus.js           	  // Event Bus`  
 `|&nbsp;&nbsp;&nbsp;&nbsp;|-- Header.vue           // 公共头部`    
