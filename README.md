@@ -17,7 +17,7 @@ Vue.Draggable：基于 Sortable.js 的 Vue 拖拽组件。 地址：[Vue.Draggab
 ### 具体步骤
 1. 删除该组件的路由，在目录`src/router/index.js`中，找到引入该组件的路由，删除相关代码
 ``` 
-{
+ {
         // 富文本编辑器组件
         path: '/editor',
         component: resolve => require(['../components/page/VueEditor.vue'], resolve),
