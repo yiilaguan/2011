@@ -1,5 +1,5 @@
 ### 目录结构
-<pre>
+```js
 |-- build                            // webpack配置文件   
 |-- config                           // 项目打包路径  
 |-- src                              // 源码目录   
@@ -32,4 +32,4 @@
 |-- index.html                       // 入口html文件  
 |-- package.json                     // 项目及工具的依赖配置文件  
 |-- README.md                        // 说明 
-</pre>
+```
