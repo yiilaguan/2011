@@ -11,8 +11,8 @@
 `|       |-- page                   	// 主要路由页面`    
 `|           |-- 403.vue`<br/>
 `|           |-- 404.vue`<br/>
-|           |-- BaseCharts.vue       // 基础图表
-|           |-- BaseForm.vue         // 基础表单
+`|           |-- BaseCharts.vue       // 基础图表`    
+`|           |-- BaseForm.vue         // 基础表单`  
 |           |-- BaseTable.vue        // 基础表格
 |           |-- DashBoard.vue        // 系统首页
 |           |-- DragList.vue         // 拖拽列表组件
